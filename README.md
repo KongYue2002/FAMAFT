@@ -7,7 +7,7 @@ functions.R
 — This script contains all major functions used in the numerical analysis of the manuscript, including functions for random data generation and algorithm implementation. This file should be sourced when running other R scripts
 
 
-Folders
+Folders:
 
 (1) simulation 
 — This folder contains five files used to reproduce all simulation results, including tables and figures. 
