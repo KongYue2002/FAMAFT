@@ -1,4 +1,4 @@
-We have attached a R file and two folders to reproduce all the results in the simulations and real data analysis of the manuscript "Factor-augmented Multivariate Accelerated Failure Time Model for Multiple Events Data". The details are listed as follows:
+We have attached one R file and two folders to reproduce all the results in the simulations and real data analysis of the manuscript "Factor-augmented Multivariate Accelerated Failure Time Model for Multiple Events Data". The details are listed as follows:
 
 
 File:
