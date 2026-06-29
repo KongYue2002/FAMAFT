@@ -1,12 +1,14 @@
 We have attached a R file and two folders to reproduce all the results in the simulations and real data analysis of the manuscript "Factor-augmented Multivariate Accelerated Failure Time Model for Multiple Events Data". The details are listed as follows:
 
 
-1. File 
+1. File
+    
 functions.R 
 — This script contains all major functions used in the numerical analysis of the manuscript, including functions for random data generation and algorithm implementation. This file should be sourced when running other R scripts
 
 
-2. Folders 
+2. Folders
+
 (1) simulation 
 — This folder contains five files used to reproduce all simulation results, including tables and figures. 
 sim_code_main.R:	The main simulation script. It calls functions.R and contains the core loop for data generation and parameter estimation.
