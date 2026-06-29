@@ -15,6 +15,7 @@ Folders
 sim_code_main.R:	The main simulation script. It calls functions.R and contains the core loop for data generation and parameter estimation.
 
 beta_hat_results.R: The R script for organizing and saving the simulation results for estimated regression coefficients.
+
 factor_and_loading_results.R: The R script for saving the simulation results for estimating factors and loadings, and selecting factors number based on eigenvalue ratio.
 
 prediction_results.R: The R script for saving the simulation results for predicting the true survival times.
