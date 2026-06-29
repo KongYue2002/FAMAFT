@@ -13,7 +13,6 @@ beta_hat_results.R: The R script for organizing and saving the simulation result
 factor_and_loading_results.R: The R script for saving the simulation results for estimating factors and loadings, and selecting factors number based on eigenvalue ratio.
 prediction_results.R: The R script for saving the simulation results for predicting the true survival times.
 time_results.R: The R script for saving the computational times (in seconds) for different methods
-
 (2) real_data_analysis
 — This folder contains one folder and two R files used to reproduce all the results in the real data  analysis of the of the manuscript.
 data: The folder that contains the input data files used for the real-data analysis.
