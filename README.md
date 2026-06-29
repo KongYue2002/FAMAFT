@@ -4,7 +4,7 @@ We have attached one R file and two folders to reproduce all the results in the 
 File:
     
 functions.R 
-— This script contains all major functions used in the numerical analysis of the manuscript, including functions for random data generation and algorithm implementation. This file should be sourced when running other R scripts
+— This script contains all major functions used in the numerical analysis of the manuscript, including functions for random data generation and algorithm implementation. This file should be sourced when running the main R scripts
 
 
 Folders:
